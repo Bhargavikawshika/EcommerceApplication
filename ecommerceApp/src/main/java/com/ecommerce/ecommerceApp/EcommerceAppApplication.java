@@ -8,6 +8,7 @@ public class EcommerceAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EcommerceAppApplication.class, args);
+		System.out.println("Hello!!!....This is my springboot ecommerce application");
 	}
 
 }
